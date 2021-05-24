@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+/* header */
+h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: normal;
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+/* main */
+h2 {
+    color: white;
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+}
+
+/* footer */
+footer {
+    text-align: right;
+}
